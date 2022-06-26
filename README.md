@@ -1,5 +1,7 @@
 # webpack-configuracion-estandar
-Fin de la sección 8
+
+
+este es el proyecto inicial para usar webpack
 
 
 ## Nota
